@@ -17,10 +17,4 @@ public class User {
         return email;
     }
 
-    @Override
-    public String toString() {
-        return "User: " +
-                "Name='" + name + '\'' +
-                ", email= " + email;
-    }
 }
