@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/out/production/collectionsTask/Main.class
+/.idea/misc.xml
+/.idea/modules.xml
+/out/production/collectionsTask/Output/OutputUser.class
+/out/production/collectionsTask/User/User.class
+/out/production/collectionsTask/UserAddList/UserAddList.class
+/.idea/workspace.xml
+/collectionsTask.iml
+/out/production/collectionsTask/App/App.class
